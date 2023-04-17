@@ -7,3 +7,5 @@ Syntax is very user-friendly and data types need not be declared when we create 
 Python support multiple programming paradigms such as, structured, object-oriented and functional programmming.
 
 Python code can be implemented using Anaconda or online compilers.
+
+Most commonly used python libraries for machine learning are: TensorFlow, NumPy, PyTorch, Pandas, SciPy, etc.
