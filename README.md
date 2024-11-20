@@ -9,3 +9,5 @@ Python support multiple programming paradigms such as, structured, object-orient
 Python code can be implemented using Anaconda or online compilers.
 
 Most commonly used python libraries for machine learning are: TensorFlow, NumPy, PyTorch, Pandas, SciPy, etc.
+
+#PYTHON IS GOD OF ALL PROGRAMMING LANGUAGES
